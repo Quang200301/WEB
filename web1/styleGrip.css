@@ -1,0 +1,40 @@
+.container{
+    display: flex;
+    grid-template-columns: 30% 70%;
+    grid-template-rows: auto auto;
+    
+
+
+}
+.logo{
+    background-color: brown;
+    width: 50px;
+    text-align: center;
+    padding: 10px;
+    
+}
+.hearder{
+    font-size: 20px;
+    background-color: rgb(28, 213, 213);
+    width: 800px;
+    height: 50px;
+    padding: 10px;
+}
+
+.menu{
+    background-color:royalblue;
+position: relative;top: -28px;
+   
+}
+.menu ul{
+    display: flex;
+    margin-left: 0px;
+   
+}
+.menu1 li{
+    color: aliceblue;
+    list-style-type: none;
+    margin: 20px;
+    
+
+}
